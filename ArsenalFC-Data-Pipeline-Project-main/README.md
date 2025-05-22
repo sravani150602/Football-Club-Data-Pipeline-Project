@@ -1,4 +1,4 @@
-# Arsenal FC Data Pipeline Project
+# Football Court Data Pipeline Project
 
 This project demonstrates an end-to-end data engineering pipeline built to collect, process, store, and visualize football statistics related to Arsenal Football Club from 2017 to 2023.
 
