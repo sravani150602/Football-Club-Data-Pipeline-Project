@@ -40,6 +40,7 @@ This project implements an end-to-end data pipeline that:
 | **Infrastructure**| Docker & Docker Compose  | Containerized environment for consistent deployment |
 
 ---
+<img width="1101" height="562" alt="image" src="https://github.com/user-attachments/assets/760ecbeb-b18c-48a3-8973-144b3af757e6" />
 
 ## Pipeline Workflow
 
